@@ -33,5 +33,34 @@
           "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Suspendisse potenti nullam ac tortor vitae purus faucibus. In fermentum et sollicitudin ac orci phasellus egestas tellus. Eget sit amet tellus cras. "
         }
       ],
-      "users" : []
+
+      "users" : [
+        {
+          "phone": "081283764971",
+          "email": "",
+          "username": "jokop",
+          "password": "123123",
+          "roles": "user",
+          "id":1
+        },
+        {
+          "phone": "081172837163",
+          "email": "joko@gmail.com",
+          "username": "joko",
+          "password": "321321",
+          "roles": "user",
+          "id":2
+        },
+        {
+          "phone": "081576349285",
+          "email": "jp@gmail.com",
+          "username": "jp",
+          "password": "345345",
+          "roles": "user",
+          "id":3
+        }
+      ],
+
+      "carts": [],
+      "transaction": []
 }
